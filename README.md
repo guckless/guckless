@@ -4,6 +4,6 @@ $\color{Blue}\Huge{\textbf{✦　　　.　　.　　　✦　　 　　*　　 
 <img width="980" height="1820" alt="VOY1GOODUPDATED" src="https://github.com/user-attachments/assets/ea69258e-9830-44b5-94d5-0de5a7de32af" />
 $\color{Blue}\Huge{\textbf{✦　　　.　　.　　　✦　　 　　*　　 　　˚   　　.　　.⋆★⋆.　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦}}$
 <p align="center">
-<a href="https://guckles.atabook.org/">Transmit a signal</a>
+<a href="https://guckles.atabook.org/">Transmit a signal (Atabook)</a>
 <p align="center">
-<a href="https://guckles.straw.page/">View info</a>
+<a href="https://guckles.straw.page/">View spacecraft info (StrawPage)</a>
