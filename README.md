@@ -7,3 +7,5 @@ $\color{Blue}\Huge{\textbf{✦　　　.　　.　　　✦　　 　　*　　 
 <a href="https://guckles.atabook.org/">Transmit a signal (Atabook)</a>
 <p align="center">
 <a href="https://guckles.straw.page/">View spacecraft info (StrawPage)</a>
+<p align="center">
+<a href="https://github.com/d00rkeyz">Voyager 2 (GitHub)</a>
